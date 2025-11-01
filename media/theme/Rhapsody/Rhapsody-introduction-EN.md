@@ -1,77 +1,81 @@
 # 🍎 Rhapsody · Typora Custom Theme
-
-> 🌐 中文版：[README.md](./README.md)
+> 🌐 中文版: [Rhapsody 简介](/media/theme/Rhapsody/Rhapsody-introduction.md)
 
 > “Color is the extension of thought;  
 > Writing is the symphony of order and inspiration.”
 
-**Rhapsody** is a vivid and dynamic Typora theme designed around the concept of *color, rhythm, and imagination*.  
-Instead of a simple recolor, it reconstructs Typora’s visual system with **high-saturation contrasts, luminous gradients, and multi-layer animations**,  
-all while staying **fully compatible with Typora’s native HTML structure**.
+**Rhapsody** is a Typora theme designed with *color, imagination, and rhythm* as its core principles.  
+It’s not just a recolor — it’s a **visual reconstruction** of Typora using **high-saturation contrasts, dynamic light layers, and multi-level headings**,  
+while keeping Typora’s native HTML structure untouched for perfect compatibility.
+
+---
+
+## 📑 Table of Contents
+- [📸 Preview](#-preview)
+- [🌈 Design Philosophy](#-design-philosophy)
+- [✨ Features](#-features)
+- [⚙️ Installation](#️-installation)
+- [📜 License & Credit](#-license--credit)
 
 ---
 
 ## 📸 Preview
+> Let the colors flow, and let the words shine.
 
-> Let the colors flow, let the words shine.
+![Preview1](Preview1.png)
+![Preview2](Preview2.png)
+![Preview3](Preview3.png)
 
-<p align="center">
-  <img src="./Rhapsody/Assets/Preview/Preview1.png" width="320" alt="Rhapsody Preview 1" style="margin:6px;">
-  <img src="./Rhapsody/Assets/Preview/Preview2.png" width="320" alt="Rhapsody Preview 2" style="margin:6px;">
-  <img src="./Rhapsody/Assets/Preview/Preview3.png" width="320" alt="Rhapsody Preview 3" style="margin:6px;">
-</p>
-
-Rhapsody brings light, texture, and depth to the Markdown writing experience —  
-turning every document into a living canvas of thought and color.
+Rhapsody brings light, texture, and motion into the writing space —  
+every gradient and glow reflects a dialogue between **order and inspiration**.
 
 ---
 
 ## 🌈 Design Philosophy
 
-Rhapsody draws inspiration from the **vibrant contrast of *Mirror’s Edge***  
-and the aesthetics of **philosophical symbolism**.  
-Its goal is not only visual pleasure, but also **a reflection of cognition and emotion through color and rhythm**:
+Rhapsody draws inspiration from the **high-saturation visual style of *Mirror’s Edge***  
+and from **philosophical symbolism in color and form**.  
+Its goal is not just to look “beautiful”, but to express deeper ideas:
 
-- Color extends thought and emotion.  
-- Light and shadow embody structure and order.  
-- All animations are pure CSS — *no DOM modifications required.*
+- Colors can extend thoughts and emotions.  
+- The writing space can breathe, flow, and carry energy.  
+- Every visual effect is achieved purely through **CSS**, without altering Typora’s HTML structure —  
+  ensuring stability, export compatibility, and long-term maintenance.
 
 ---
 
 ## ✨ Features
 
-- 🎨 **Six-level heading system** — Each heading (h1–h6) has distinct fonts, icons, and animations.  
-- 💡 **Dynamic lighting layers** — Flowing gradients, subtle glows, and floating particles add spatial depth.  
-- 📦 **Modular CSS structure** — Components split into `layout`, `typography`, `math`, `table`, `export_patch`, etc.  
-- 🧮 **Export-friendly patches** — Ensures visual consistency between HTML and PDF exports.  
-- 🧠 **Easter egg system** — Hidden icons and animations triggered purely through CSS.
+- 🎨 **Six-Level Heading System** — h1 adopts the signature *Appleron Lightband*, while h2–h6 feature distinct fonts and icons.  
+- 💡 **Dynamic Light & Energy Layers** — Soft glows, gradient flows, and floating bubbles bring depth and vitality to your workspace.  
+- 📦 **Modular CSS Architecture** — Organized into `layout.css`, `typography.css`, `math.css`, `table.css`, and `export_patch.css` for flexible customization.  
+- 🧮 **Export-Friendly Patches** — Integrated fixes for HTML/PDF export to maintain consistent appearance and alignment.  
+- 🧠 **Easter Egg System** — Hidden icons and animations triggered purely by CSS, adding layers of symbolic playfulness.
 
 ---
 
 ## ⚙️ Installation
 
-1. Open Typora → **Preferences → Appearance → Open Theme Folder**  
-2. Copy `rhapsody.css` and the `Rhapsody/` resource folder into the theme directory  
-   (Keep them **side by side**, not nested.)
-3. Restart Typora → Select **Rhapsody** in *Themes* menu
+1. Open Typora → Preferences → Appearance → **Open Theme Folder**  
+2. Copy both **`rhapsody.css`** and the **`Rhapsody/`** resource folder into that directory.  
+   (⚠️ Keep them **side by side**, not nested — the paths rely on this structure.)  
+3. Restart Typora → Select **Rhapsody** from the theme list.
 
-> ⚠️ Do **not** move `rhapsody.css` inside the `Rhapsody/` folder.  
-> The relative paths depend on this structure.
+> ⚠️ Do **not** move `rhapsody.css` inside `Rhapsody/`.  
+> Otherwise, relative paths for images and substyles will break.
 
 ---
 
-## 📜 License & Credits
+## 📜 License & Credit
 
-- License: **CC BY-NC-SA 4.0** *(Attribution–NonCommercial–ShareAlike)*  
-- Free to use, study, and modify for non-commercial purposes  
-- Please retain author credit when redistributing:  
+- Recommended License: **CC BY-NC-SA 4.0** *(Attribution–NonCommercial–ShareAlike)*  
+- You are free to use, learn, and modify this theme for non-commercial purposes.  
+- Please retain attribution when redistributing:  
   **Rhapsody Typora Theme — Designed by CGM (The Radiant Prince)**  
-- For commercial use or redistribution, please contact the author in advance.
+- For any commercial use or redistribution, please contact the author in advance.
 
 ---
 
-> “Rhapsody is more than a visual skin —  
-> it’s an experiment in the aesthetics of structure, light, and thought.”  
-
-More details, module tree, export patches, and easter eggs can be found in:  
+For more details — including full directory tree, export configurations, and easter egg triggers —  
+please visit the full documentation:  
 👉 [GitHub · Rhapsody Typora Theme](https://github.com/CGMgit/Rhapsody-Typora-Theme)
