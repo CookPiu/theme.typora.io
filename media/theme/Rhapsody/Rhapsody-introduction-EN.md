@@ -1,5 +1,5 @@
 # 🍎 Rhapsody · Typora Custom Theme
-> 🌐 中文版: [Rhapsody 简介](./_posts/Rhapsody.md)
+> 🌐 中文版: [Rhapsody 简介](../_posts/Rhapsody.md)
 
 > “Color is the extension of thought;  
 > Writing is the symphony of order and inspiration.”
@@ -79,4 +79,5 @@ Its goal is not just to look “beautiful”, but to express deeper ideas:
 For more details — including full directory tree, export configurations, and easter egg triggers —  
 please visit the full documentation:  
 👉 [GitHub · Rhapsody Typora Theme](https://github.com/CGMgit/Rhapsody-Typora-Theme)
+
 
