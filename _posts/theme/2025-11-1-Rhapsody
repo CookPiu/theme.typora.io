@@ -1,0 +1,63 @@
+---
+layout: theme
+title: Rhapsody · Typora 专属皮肤主题
+category: theme
+homepage: https://github.com/CGMgit/Rhapsody-Typora-Theme
+download: https://github.com/CGMgit/Rhapsody-Typora-Theme/releases
+built-in: false
+author: CGM
+thumbnail: rhapsody.png
+typora-root-url: ../../
+typora-copy-images-to: ../../media/theme/rhapsody
+---
+
+# Rhapsody · Typora Theme
+
+> “Color is the extension of thought; writing is the symphony of order and inspiration.”
+
+**Rhapsody** is a vivid, dynamic Typora theme inspired by *Mirror’s Edge*–style high-saturation contrasts and philosophical aesthetics.  
+It brings colorful glow animations, smooth lighting layers, and export-friendly patches for both **HTML** and **PDF**, all while staying 100% compatible with Typora’s default DOM structure.
+
+---
+
+> 「色彩，是思想的延伸；写作，是秩序与灵感的交响。」
+
+**Rhapsody** 是一款以「多彩、梦幻、灵动」为核心理念的 Typora 个性化主题。  
+设计灵感来源于《镜之边缘》式高饱和撞色与哲学符号美学，在光影与色彩中重塑 Markdown 写作的仪式感。
+
+---
+
+## ✨ Features / 特点
+
+- 🎨 独立六级标题体系（h1–h6 动态动画与独立字体）
+- 💡 高光流带、能量泡泡、毛玻璃光影层次
+- 📘 支持导出 HTML / PDF 的视觉修正补丁
+- 🧠 不改 HTML 结构，完全基于 CSS 动画实现
+- 🌈 兼容浅色/暗色模式，自适应宽屏排版
+
+---
+
+## ⚙️ Installation / 安装
+
+1. 下载仓库内的 `rhapsody.css` 与字体/资源目录  
+2. 将文件放入 Typora 主题路径：
+
+   - **Windows:** `%APPDATA%/Typora/themes/`  
+   - **macOS:** `~/Library/Application Support/abnerworks.Typora/themes/`  
+
+3. 在 Typora 设置 → 外观 → 主题 中选择 **Rhapsody**
+
+---
+
+## 🧩 Notes / 注意事项
+
+- 本主题保持对 Typora 默认 HTML 结构的完全兼容（不修改 DOM）。
+- 若导出 PDF 出现底色或字体丢失，可启用自带 `Export Patch` 补丁。
+- 已通过 Portable / 虚拟机环境测试，适配 HTML 与 PDF 导出。
+
+---
+
+![rhapsody-preview](/media/theme/rhapsody/rhapsody-preview.png)
+
+更多详情与未来更新请访问：  
+👉 [**Rhapsody · Typora Theme on GitHub**](https://github.com/CGMgit/Rhapsody-Typora-Theme)
