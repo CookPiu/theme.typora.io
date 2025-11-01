@@ -1,65 +1,77 @@
-# 🍎 Rhapsody · The Apple World
+# 🍎 Rhapsody · Typora Custom Theme
 
-　　　　　　　　　　　　Welcome to the world of the Handsome Prince! 👑  
+> 🌐 中文版：[README.md](./README.md)
 
-> “Mathematics is not merely a tool, but a language of existence and cognition.”
+> “Color is the extension of thought;  
+> Writing is the symphony of order and inspiration.”
 
-🎓 **Graduate Student, School of Management, University of Science and Technology of China (USTC)**  
-Research Area: **Mathematical Statistics · Optimization Algorithms · Intelligent Control Systems**
-
----
-
-### 🔭 Research Interests
-
-- Analytic philosophy, logic models, and the foundations of mathematics  
-- Probability theory, measure theory, nonparametric statistics, and Bayesian inference  
-- Optimization and control from the operator-theoretic perspective (KKT / ADMM / OSQP)  
-- Neural networks and reinforcement learning for optimal control  
-- Adaptive MPC (AN-MPC) and path-planning algorithms (MD-A*)  
-
-🧠 **Current Research Focus:** The ZFC axiom system and category theory.
+**Rhapsody** is a vivid and dynamic Typora theme designed around the concept of *color, rhythm, and imagination*.  
+Instead of a simple recolor, it reconstructs Typora’s visual system with **high-saturation contrasts, luminous gradients, and multi-layer animations**,  
+all while staying **fully compatible with Typora’s native HTML structure**.
 
 ---
 
-### 🧩 Engineering & Projects
+## 📸 Preview
 
-- 🚤 **AN-MPC Control System (MATLAB)**  
-  Implementing dynamic desired heading, disturbance modeling, and predictive compensation  
-- 🧭 **MD-A* Path Planning**  
-  General graph-based path visualization and simulation  
-- 🎨 **Rhapsody Typora Theme System**  
-  A custom writing environment that fuses scientific typography with artistic design  
-- 🕹️ **Game Project – “Dream Bureau”**  
-  A narrative strategy game centered on growth, cognition, and education  
+> Let the colors flow, let the words shine.
 
----
+<p align="center">
+  <img src="./Rhapsody/Assets/Preview/Preview1.png" width="320" alt="Rhapsody Preview 1" style="margin:6px;">
+  <img src="./Rhapsody/Assets/Preview/Preview2.png" width="320" alt="Rhapsody Preview 2" style="margin:6px;">
+  <img src="./Rhapsody/Assets/Preview/Preview3.png" width="320" alt="Rhapsody Preview 3" style="margin:6px;">
+</p>
 
-### 📖 Philosophy & Writing
-
-📘 Author of **_Appleron_ (《苹果论》)** — a philosophical system of **existence, uniqueness, and cognition**.  
-Exploring the philosophical structure behind set theory, category theory, and operator theory,  
-revealing the “**Trinity of Reason**” that forms the foundation of modern rationality.
-
-> Set theory defines *the container of existence*,  
->
-> Logic and model theory define *the rules of truth*,  
->
-> Category theory reveals *the motion of structure*.
+Rhapsody brings light, texture, and depth to the Markdown writing experience —  
+turning every document into a living canvas of thought and color.
 
 ---
 
-### 🌈 Design & Ecosystem
+## 🌈 Design Philosophy
 
-Creator of the **Rhapsody Ecosystem** — an integration of scientific thinking, aesthetic philosophy, and design engineering:
+Rhapsody draws inspiration from the **vibrant contrast of *Mirror’s Edge***  
+and the aesthetics of **philosophical symbolism**.  
+Its goal is not only visual pleasure, but also **a reflection of cognition and emotion through color and rhythm**:
 
-- Typora theme design (*Rhapsody Series*)  
-- Academic layout templates and visualization components  
-- Custom interactive interfaces and energy-band animation systems  
+- Color extends thought and emotion.  
+- Light and shadow embody structure and order.  
+- All animations are pure CSS — *no DOM modifications required.*
 
 ---
 
-### 📫 Contact
+## ✨ Features
 
-- 📧 Email: **shuaiqidawangzi@mail.ustc.edu.cn**
+- 🎨 **Six-level heading system** — Each heading (h1–h6) has distinct fonts, icons, and animations.  
+- 💡 **Dynamic lighting layers** — Flowing gradients, subtle glows, and floating particles add spatial depth.  
+- 📦 **Modular CSS structure** — Components split into `layout`, `typography`, `math`, `table`, `export_patch`, etc.  
+- 🧮 **Export-friendly patches** — Ensures visual consistency between HTML and PDF exports.  
+- 🧠 **Easter egg system** — Hidden icons and animations triggered purely through CSS.
 
-🪐 *“The world is intelligible by reason, lovable by emotion, and thinkable by philosophy.”*
+---
+
+## ⚙️ Installation
+
+1. Open Typora → **Preferences → Appearance → Open Theme Folder**  
+2. Copy `rhapsody.css` and the `Rhapsody/` resource folder into the theme directory  
+   (Keep them **side by side**, not nested.)
+3. Restart Typora → Select **Rhapsody** in *Themes* menu
+
+> ⚠️ Do **not** move `rhapsody.css` inside the `Rhapsody/` folder.  
+> The relative paths depend on this structure.
+
+---
+
+## 📜 License & Credits
+
+- License: **CC BY-NC-SA 4.0** *(Attribution–NonCommercial–ShareAlike)*  
+- Free to use, study, and modify for non-commercial purposes  
+- Please retain author credit when redistributing:  
+  **Rhapsody Typora Theme — Designed by CGM (The Radiant Prince)**  
+- For commercial use or redistribution, please contact the author in advance.
+
+---
+
+> “Rhapsody is more than a visual skin —  
+> it’s an experiment in the aesthetics of structure, light, and thought.”  
+
+More details, module tree, export patches, and easter eggs can be found in:  
+👉 [GitHub · Rhapsody Typora Theme](https://github.com/CGMgit/Rhapsody-Typora-Theme)
