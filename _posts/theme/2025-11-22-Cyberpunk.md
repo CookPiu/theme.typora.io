@@ -2,8 +2,8 @@
 layout: theme
 title: Cyberpunk
 category: theme
-homepage: https://github.com/typora/typora-default-themes
-download: https://github.com/typora/typora-default-themes/archive/master.zip
+homepage: https://github.com/channingwalton/typora-themes
+download: https://github.com/channingwalton/typora-themes/cyberpunk/cyberpunk.css
 author: channingwalton
 thumbnail: cyberpunk.png
 typora-root-url: ../../
