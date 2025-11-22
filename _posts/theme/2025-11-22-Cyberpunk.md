@@ -22,3 +22,26 @@ Some screenshots:
 ![Cyberpunk-4](/media/theme/cyberpunk/cp-4.png)
 ![Cyberpunk-5](/media/theme/cyberpunk/cp-5.png)
 
+## Installation
+
+1. **Download the theme files**
+
+- https://github.com/channingwalton/typora-themes/cyberpunk/cyberpunk.css
+
+2. **Locate Typora’s theme folder**
+
+   - Open Typora → Preferences → Appearance → Open Theme Folder.
+
+3. **Copy theme files**
+
+   - Place the css file into the theme folder.
+
+4. **Apply the theme**
+
+   - Restart Typora, then select **Cyberpunk** from the Themes menu.
+
+## Author
+
+**Channing Walton**
+GitHub: [channingwalton](https://github.com/channingwalton)
+
