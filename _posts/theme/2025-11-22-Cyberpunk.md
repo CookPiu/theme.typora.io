@@ -1,24 +1,24 @@
 ---
 layout: theme
-title: Clean
+title: Cyberpunk
 category: theme
 homepage: https://github.com/typora/typora-default-themes
 download: https://github.com/typora/typora-default-themes/archive/master.zip
 author: channingwalton
-thumbnail: clean.png
+thumbnail: cyberpunk.png
 typora-root-url: ../../
 typora-copy-images-to: ../../media/theme/clean
 ---
 
-A simple, clean, elegant, light theme.
+A fun, dark, cyberpunk theme.
 
 Designed and tested on MacOS. Not fully tested, but should work for Windows/Linux.
 
 Some screenshots: 
 
-![Clean](/media/theme/clean/clean-1.png)
-![Clean](/media/theme/clean/clean-2.png)
-![Clean](/media/theme/clean/clean-3.png)
-![Clean](/media/theme/clean/clean-4.png)
-![Clean](/media/theme/clean/clean-5.png)
+![Cyberpunk-1](/media/theme/cyberpunk/cp-1.png)
+![Cyberpunk-2](/media/theme/cyberpunk/cp-2.png)
+![Cyberpunk-3](/media/theme/cyberpunk/cp-3.png)
+![Cyberpunk-4](/media/theme/cyberpunk/cp-4.png)
+![Cyberpunk-5](/media/theme/cyberpunk/cp-5.png)
 
