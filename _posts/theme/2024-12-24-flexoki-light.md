@@ -3,7 +3,7 @@ layout: theme
 title: Flexoki Light
 category: theme
 homepage: https://github.com/guidovicino/flexoki-typora
-download: https://github.com/guidovicino/flexoki-typora/releases/download/v1.0.0/flexoki-light.css
+download: https://github.com/guidovicino/flexoki-typora/releases/download/v1.0.1/flexoki-light.css
 built-in: false
 author: Guido Vicino
 thumbnail: flexoki-light.png
@@ -26,6 +26,7 @@ Flexoki is inspired by analog inks and warm shades of paper, designed for readin
 - **Monospace code** - JetBrainsMono Nerd Font for code blocks
 - **High contrast** - Optimized for legibility
 - **Cyan accents** - Consistent `#24837B` accent color throughout
+- **Custom task list checkboxes** - Black border when unchecked, cyan with white checkmark when checked
 
 ## Installation
 
