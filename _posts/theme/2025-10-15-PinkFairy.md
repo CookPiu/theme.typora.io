@@ -3,7 +3,7 @@ layout: theme
 title: PinkFairy
 category: theme
 homepage: https://github.com/ShimuGuyue/typora-theme-PinkFairy
-download: https://github.com/ShimuGuyue/typora-theme-PinkFairy
+download: https://github.com/ShimuGuyue/typora-theme-PinkFairy/releases/tag/PinkFairy
 built-in: false
 author: ShimuGuyue胡岩松
 thumbnail: pink-fairy.png
@@ -28,7 +28,7 @@ typora-root-url: ../../
 
 下载文件『pink-fairy.css』，
 
-放入主题文件夹『C:\Users\$username$\AppData\Roaming\Typora\themes\』,
+放入主题文件夹『C:\\Users\\\$username\$\\AppData\\Roaming\\Typora\\themes\\』,
 
 重启 typora 即可应用。
 
@@ -36,7 +36,7 @@ typora-root-url: ../../
 
 # 特色
 
-1. 主要使用**新宋体**字体！（等宽！程序员狂喜）
+1. 主要使用**仿宋**字体！（等宽！程序员狂喜）
 1. 爱莉希雅配色，无暇的少女就是这么可爱！
 
 **将爱意传递下去吧！~**
