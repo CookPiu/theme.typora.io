@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: VLOOK™ • VIP Theme
+title: VLOOK™ • VIP Theme vol.01
 category: theme
 homepage: https://github.com/MadMaxChow/VLOOK
 download: https://github.com/MadMaxChow/VLOOK/releases
