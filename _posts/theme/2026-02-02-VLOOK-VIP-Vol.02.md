@@ -1,17 +1,17 @@
 ---
 layout: theme
-title: VLOOK™ • VIP Theme (Volume 01)
+title: VLOOK™ • VIP Theme (Volume 02)
 category: theme
 homepage: https://github.com/MadMaxChow/VLOOK
 download: https://github.com/MadMaxChow/VLOOK/releases
 built-in: false
 author: MAX°孟兆
-thumbnail: vlook-vip-vol.01.png
+thumbnail: vlook-vip-vol.02.png
 typora-root-url: ../../
-typora-copy-images-to: ../../media/theme/vlook-vip-vol.01
+typora-copy-images-to: ../../media/theme/vlook-vip-vol.02
 ---
 
-# VLOOK™ • VIP Theme (Volume 01)
+# VLOOK™ • VIP Theme (Volume 02)
 
 > VLOOK™ is an elegant and practical THEME PACKAGE × ENHANCEMENT PLUGIN for Typora/Markdown.
 
@@ -29,7 +29,7 @@ Considering various personalized display requirements, such as **specialized doc
 
 
 
-![vlook-theme-preview-01](/media/theme/vlook-vip-vol.01/vlook-theme-vip-vol.01.png)
+![vlook-theme-preview-01](/media/theme/vlook-vip-vol.02/vlook-theme-vip-vol.02.png)
 
 # Custom Theme
 
