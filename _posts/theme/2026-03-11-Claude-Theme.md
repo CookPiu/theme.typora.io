@@ -6,7 +6,7 @@ homepage: https://github.com/Muyiiiii/Typora_Claude-Like_Theme
 download: https://github.com/Muyiiiii/Typora_Claude-Like_Theme/releases/tag/Stable
 built-in: false
 author: Muyiiiii
-thumbnail: paper.png
+thumbnail: calude.png
 typora-root-url: ../../
 ---
 
@@ -14,9 +14,9 @@ typora-root-url: ../../
 
 > [English Version Below](#english-version)
 
-![light](https://raw.githubusercontent.com/Muyiiiii/Typora_Claude-Like_Theme/master/image/2026-03-11-claude-like-theme/light.png)
+![light](/media/theme/calude/light.png)
 
-![dark](https://raw.githubusercontent.com/Muyiiiii/Typora_Claude-Like_Theme/master/image/2026-03-11-claude-like-theme/dark.png)
+![dark](/media/theme/calude/dark.png)
 
 一个以 Claude-like 阅读体验为灵感、并针对中文写作重新打磨的 Typora 主题。
 
