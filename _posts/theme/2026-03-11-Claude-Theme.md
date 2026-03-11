@@ -6,7 +6,7 @@ homepage: https://github.com/Muyiiiii/Typora_Claude-Like_Theme
 download: https://github.com/Muyiiiii/Typora_Claude-Like_Theme/releases/tag/Stable
 built-in: false
 author: Muyiiiii
-thumbnail: calude.png
+thumbnail: claude.png
 typora-root-url: ../../
 ---
 
