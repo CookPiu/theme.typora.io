@@ -1,25 +1,25 @@
 ---
 layout: theme
-title: Claude-like Theme
+title: Claude-Like Theme
 category: theme
-homepage: https://github.com/Muyiiiii/Typora_Claude-like_Theme
+homepage: https://github.com/Muyiiiii/Typora_Claude-Like_Theme
 built-in: false
 author: Muyiiiii
 thumbnail: paper.png
 typora-root-url: ../../
 ---
-# Claude Theme
 
-> [English Version Below](#english-version)
+# Claude-like Theme
 
-![1773209010272](image/2026-03-11-Claude-Theme/1773209010272.png)
+> [English Version Belo](#english-version)
 
-![1773208999059](image/2026-03-11-Claude-Theme/1773208999059.png)
+![light](image/2026-03-11-claude-like-theme/light.png)
 
+![dark](image/2026-03-11-claude-like-theme/dark.png)
 
-一个以 Claude 阅读体验为灵感、并针对中文写作重新打磨的 Typora 主题。
+一个以 Claude-like 阅读体验为灵感、并针对中文写作重新打磨的 Typora 主题。
 
-它不是简单地把网页样式搬进 Typora，而是保留了 Claude 那种安静、克制、长文友好的阅读气质，同时针对中文内容、表格、代码块、导出效果做了重新调校。
+它不是简单地把网页样式搬进 Typora，而是保留了 Claude-like 那种安静、克制、长文友好的阅读气质，同时针对中文内容、表格、代码块、导出效果做了重新调校。
 
 ## 设计目标
 
@@ -30,7 +30,7 @@ typora-root-url: ../../
 
 ## 主题特点
 
-### 1. Claude 风格的整体阅读气质
+### 1. Claude-like 风格的整体阅读气质
 
 主题整体采用低饱和、轻对比、较宽松的留白节奏，适合：
 
@@ -89,8 +89,8 @@ typora-root-url: ../../
 
 项目包含：
 
-- `claude.css`
-- `claude-dark.css`
+- `claude-like.css`
+- `claude-like-dark.css`
 
 两套主题不是简单反色，而是在以下部分分别做了独立调整：
 
@@ -119,18 +119,18 @@ typora-root-url: ../../
 2. 进入 `设置 / 偏好设置 -> 外观 -> 打开主题文件夹`。
 3. 将以下文件复制到主题目录中：
 
-   - `claude.css`
-   - `claude-dark.css`
+   - `claude-like.css`
+   - `claude-like-dark.css`
 4. 重启 Typora。
 5. 在主题菜单中选择：
 
-   - `Claude`
-   - `Claude Dark`
+   - `Claude-like`
+   - `Claude-like Dark`
 
 ## 文件说明
 
-- `claude.css`：浅色主题
-- `claude-dark.css`：深色主题
+- `claude-like.css`：浅色主题
+- `claude-like-dark.css`：深色主题
 
 ## 已优化的细节
 
@@ -151,7 +151,7 @@ typora-root-url: ../../
 
 ## 总结
 
-Claude Theme 的核心不是“看起来像某个网页”，而是把那种安静、可信、适合长时间阅读的气质带进 Typora，并把它真正做成一套适合中文 Markdown 写作的主题。
+Claude-like Theme 的核心不是“看起来像某个网页”，而是把那种安静、可信、适合长时间阅读的气质带进 Typora，并把它真正做成一套适合中文 Markdown 写作的主题。
 
 如果你的文档里经常同时出现标题、表格、代码块和长段说明文本，这套主题会比较适合你。
 
@@ -159,11 +159,11 @@ Claude Theme 的核心不是“看起来像某个网页”，而是把那种安�
 
 `<a id="english-version"></a>`
 
-# Claude Theme
+# Claude-like Theme
 
-A Typora theme inspired by Claude's reading experience, refined for Chinese writing and technical Markdown workflows.
+A Typora theme inspired by a Claude-like reading experience, refined for Chinese writing and technical Markdown workflows.
 
-It is not a direct clone of a webpage. Instead, it keeps the calm, restrained, long-form reading atmosphere associated with Claude, while reworking typography, tables, code blocks, and export behavior for practical Markdown use.
+It is not a direct clone of a webpage. Instead, it keeps the calm, restrained, long-form reading atmosphere associated with a Claude-like style, while reworking typography, tables, code blocks, and export behavior for practical Markdown use.
 
 ## Design Goals
 
@@ -233,8 +233,8 @@ This keeps code readable without becoming as visually aggressive as a full IDE t
 
 The project currently includes:
 
-- `claude.css`
-- `claude-dark.css`
+- `claude-like.css`
+- `claude-like-dark.css`
 
 The dark version is not a simple color inversion. Both themes are tuned independently in areas such as:
 
@@ -263,18 +263,18 @@ If you prefer highly decorative layouts or very dramatic heading styles, this th
 2. Go to `Preferences -> Appearance -> Open Theme Folder`.
 3. Copy the following files into the theme folder:
 
-   - `claude.css`
-   - `claude-dark.css`
+   - `claude-like.css`
+   - `claude-like-dark.css`
 4. Restart Typora.
 5. Choose one of the following from the Theme menu:
 
-   - `Claude`
-   - `Claude Dark`
+   - `Claude-like`
+   - `Claude-like Dark`
 
 ## Files
 
-- `claude.css`: light theme
-- `claude-dark.css`: dark theme
+- `claude-like.css`: light theme
+- `claude-like-dark.css`: dark theme
 
 ## Refined Details
 
@@ -295,6 +295,6 @@ If you prefer highly decorative layouts or very dramatic heading styles, this th
 
 ## Summary
 
-Claude Theme is not about mechanically imitating a webpage. Its goal is to bring a calm, credible, long-reading-friendly atmosphere into Typora and turn that into a theme that actually works for Chinese Markdown writing.
+Claude-like Theme is not about mechanically imitating a webpage. Its goal is to bring a calm, credible, long-reading-friendly atmosphere into Typora and turn that into a theme that actually works for Chinese Markdown writing.
 
 If your documents often mix headings, long explanations, tables, and code blocks, this theme should fit that workflow well.
