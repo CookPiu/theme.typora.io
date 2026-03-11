@@ -14,9 +14,9 @@ typora-root-url: ../../
 
 > [English Version Below](#english-version)
 
-![light](/media/theme/calude/light.png)
+![light](../../media/theme/claude/light.png)
 
-![dark](/media/theme/calude/dark.png)
+![dark](../../media/theme/claude/dark.png)
 
 一个以 Claude-like 阅读体验为灵感、并针对中文写作重新打磨的 Typora 主题。
 
