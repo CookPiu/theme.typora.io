@@ -207,3 +207,9 @@ If you prefer a pure white paper-like experience, this may not be the right them
 Warp Gradient is not trying to be louder. It is trying to be more complete.
 
 With a restrained gradient, a quieter sidebar, and clearer hierarchy for technical writing, it turns Typora into a writing surface that feels more considered over time.
+
+Repository:
+https://github.com/folook/typora_warp_gradient_theme
+
+Download:
+https://github.com/folook/typora_warp_gradient_theme/archive/refs/heads/main.zip
