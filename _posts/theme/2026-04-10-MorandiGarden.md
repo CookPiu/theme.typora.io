@@ -3,7 +3,7 @@ layout: theme
 title: MorandiGarden Theme
 category: theme
 homepage: https://github.com/Kitsunee-CN/MorandiGarden
-download: https://github.com/user-attachments/files/26631668/MorandiGarden.v1.0.zip
+download: https://github.com/user-attachments/files/26633554/MorandiGarden.zip
 author: Kitsunee-CN
 thumbnail: morandigarden.png
 typora-root-url: ../../
