@@ -5,7 +5,7 @@ category: theme
 homepage: https://github.com/Kitsunee-CN/MorandiGarden
 download: https://github.com/user-attachments/files/26633554/MorandiGarden.zip
 author: Kitsunee-CN
-thumbnail: morandigarden.png
+thumbnail: morandigarden.jpg
 typora-root-url: ../../
 typora-copy-images-to: ../../media/theme/morandigarden
 ---
