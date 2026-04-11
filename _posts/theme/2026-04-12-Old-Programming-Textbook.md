@@ -47,3 +47,9 @@ Custom UI Elements: * <kbd> tags are styled to look like physical mechanical key
 Custom, single-toned syntax highlighting for code blocks.
 
 Interactive images that "lift" when hovered.
+
+# Note
+
+This theme has been designed and tested on macOS. Not fully tested, but should work for Windows/Linux. But this theme does not include styles for Windows "unibody" style.
+
+
