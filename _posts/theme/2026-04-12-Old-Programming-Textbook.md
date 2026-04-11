@@ -4,14 +4,19 @@ title: Old Programming Textbook Theme Pack
 name: Programming Textbook
 author: Akash Kumar
 homepage: https://github.com/aaakashkumar/typora-programming-textbook-theme
-download: TODO
-github: https://www.google.com/search?q=https://github.com/aaakashkumar/typora-textbook-themes
+download: https://github.com/aaakashkumar/typora-programming-textbook-theme/releases/tag/v1.0.0
+github: https://github.com/aaakashkumar/typora-textbook-themes
 date: 2026-04-12
 category: Light
 thumbnail: old-programming-textbook.png
 ---
 
 A collection of single-toned, brutalist, eye-friendly light themes for Typora, inspired by the timeless aesthetic of classic computer science and programming textbooks.
+
+
+# Look and feel
+
+![Old Programming Textbook](/media/theme/Old-Programming-Textbook/old-programming-textbook.png)
 
 # 🎨 Built for Eye Care
 
