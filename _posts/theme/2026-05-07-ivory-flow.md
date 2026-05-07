@@ -5,7 +5,7 @@ category: theme
 homepage: https://github.com/case-j/typora-theme-ivory-flow
 download: https://github.com/case-j/typora-theme-ivory-flow/archive/main.zip
 built-in: false
-author: James Fancourt
+author: case-j
 thumbnail: ivory-flow-thumbnail.png
 typora-root-url: ../../
 ---
