@@ -5,7 +5,7 @@ category: theme
 homepage: https://github.com/manupanizo/buah-typora-theme
 download: https://github.com/manupanizo/typora-theme-sweet-sweet/releases/latest
 author: manupanizo
-thumbnail: sweet-sweet-thumbnail.jpg
+thumbnail: sweet-sweet.jpg
 license: Apache-2.0
 ---
 # Sweet Sweet - A theme for Typora
