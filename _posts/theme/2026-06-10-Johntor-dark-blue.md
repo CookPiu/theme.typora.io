@@ -3,7 +3,7 @@ layout: theme
 title: Johntor Dark Blue
 category: theme
 homepage: https://github.com/johntor/typora-theme
-download: https://github.com/johntor/typora-theme/releases/download/v1.0/johntor-dark-blue.css
+download: https://github.com/johntor/typora-theme/releases/download/v1.1/johntor-dark-blue.css
 built-in: false
 author: Johntor
 thumbnail: johntor-dark-blue.png
