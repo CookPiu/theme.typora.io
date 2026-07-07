@@ -29,6 +29,7 @@ typora-copy-images-to: ../../media/theme/vlook-fancy-v2
 
 ![vlook-theme-preview-00](/media/theme/vlook-fancy-v2/preview-00.webp)
 
+
 ![vlook-theme-preview-01](/media/theme/vlook-fancy-v2/preview-01.png)
 
 ![vlook-theme-preview-02](/media/theme/vlook-fancy-v2/preview-02.png)
@@ -42,8 +43,6 @@ typora-copy-images-to: ../../media/theme/vlook-fancy-v2
 ![vlook-theme-preview-06](/media/theme/vlook-fancy-v2/preview-06.png)
 
 ![vlook-theme-preview-07](/media/theme/vlook-fancy-v2/preview-07.png)
-
-![vlook-theme-preview-08](/media/theme/vlook-fancy-v2/preview-08.png)
 
 # Custom Theme
 
