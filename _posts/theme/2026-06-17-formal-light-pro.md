@@ -1,11 +1,14 @@
 ---
-layout: post
-title: "Formal Light Pro"
-author: "Andrew"
-preview: "formal-light-pro.png"
-homepage: "https://github.com/AndrewYY5178/formal-light-pro-typora-theme"
-download: "https://github.com/AndrewYY5178/formal-light-pro-typora-theme/archive/refs/heads/main.zip"
-description: "Pure white formal light theme for resumes and professional documents. Optima + Songti SC font pairing with soft blue accents."
+layout: theme
+title: Formal Light Pro
+category: theme
+homepage: https://github.com/AndrewYY5178/formal-light-pro-typora-theme
+download: https://github.com/AndrewYY5178/formal-light-pro-typora-theme/archive/refs/heads/main.zip
+built-in: false
+author: Andrew
+thumbnail: formal-light-pro.png
+typora-root-url: ../../
+description: Pure white formal light theme for resumes and professional documents. Optima + Songti SC font pairing with soft blue accents.
 tags: [light, formal, resume, professional, business]
 ---
 
