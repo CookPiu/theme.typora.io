@@ -3,7 +3,7 @@ layout: theme
 title: Esther Inspired
 category: theme
 homepage: https://github.com/lisitan/esther-obsidian-typora-themes
-download: https://github.com/lisitan/esther-obsidian-typora-themes/releases/download/1.1.9/esther-inspired-typora-1.1.9.zip
+download: https://github.com/lisitan/esther-obsidian-typora-themes/releases/download/1.1.10/esther-inspired-typora-1.1.10.zip
 author: lisitan
 thumbnail: esther-inspired.png
 typora-root-url: ../../
