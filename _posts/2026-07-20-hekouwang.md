@@ -5,13 +5,13 @@ author: "huiyonghkw"
 preview: "hekouwang.png"
 homepage: "https://github.com/huiyonghkw/hekouwang-typora-theme"
 download: "https://github.com/huiyonghkw/hekouwang-typora-theme/archive/refs/heads/main.zip"
-description: "A warm off-white light theme reproducing the reading experience of Claude's desktop app. Generated from a token file, zero !important, 100 KB of bundled fonts, and CJK/Latin mixing that follows what the app actually does."
-tags: [light, clean, cjk, minimal, reading]
+description: "A warm off-white theme (light + dark) reproducing the reading experience of Claude's desktop app. Generated from a token file, zero !important, 100 KB of bundled fonts, and CJK/Latin mixing that follows what the app actually does."
+tags: [light, dark, clean, cjk, minimal, reading]
 ---
 
 # Hekouwang for Typora
 
-A warm off-white light theme built for long reading sessions, reproducing the reading
+A warm off-white theme (light **and** dark) built for long reading sessions, reproducing the reading
 experience of Claude's desktop app.
 
 The CSS is **generated from a token file** rather than hand-written — every color, size and
@@ -99,7 +99,8 @@ not affiliated with or endorsed by Anthropic PBC.
 ## Installation
 
 1. Download and unzip the theme.
-2. Copy `theme/hekouwang.css` and the `theme/hekouwang/` folder into Typora's theme folder.
+2. Copy `theme/hekouwang.css`, `theme/hekouwang-dark.css` and the `theme/hekouwang/` folder
+   into Typora's theme folder.
 3. **Quit Typora completely and relaunch** (switching themes does not reload a modified CSS
    file), then select **Hekouwang** from the Themes menu.
 
@@ -108,5 +109,17 @@ not affiliated with or endorsed by Anthropic PBC.
 Designed and tested on **macOS**. Not fully tested, but should work for Windows/Linux.
 This theme does not include styles for the Windows "unibody" style.
 
-A dark variant is not included yet — it will be sampled from the app's dark mode rather than
-guessed at.
+## Dark variant
+
+`hekouwang-dark.css` is **sampled** from the app's dark mode, not derived by inverting the
+light theme — which matters, because the light theme's relationships do not survive inversion:
+
+- In dark mode the **sidebar (`#262626`) is lighter than the editor pane (`#1f1f1e`)** — the
+  reverse of the light theme. Inverting would have gotten this backwards.
+- Inline code sits on a **neutral white overlay** in dark (solving for alpha gives a consistent
+  0.036/0.040/0.031 across channels), rather than the brand-orange wash used in light (which
+  would solve inconsistently: 0.043/0.10/0.12).
+- Border and shadow base colors swap: ink-at-low-alpha in light, white-at-low-alpha in dark.
+
+Both variants are generated from the same token file; the `dark` block overrides only the
+`color` and `alpha` groups.
