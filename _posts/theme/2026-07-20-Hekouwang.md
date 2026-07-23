@@ -1,12 +1,14 @@
 ---
-layout: post
+layout: theme
 title: "Hekouwang"
+category: theme
 author: "huiyonghkw"
-preview: "hekouwang.png"
+thumbnail: hekouwang.png
 homepage: "https://github.com/huiyonghkw/hekouwang-typora-theme"
 download: "https://github.com/huiyonghkw/hekouwang-typora-theme/archive/refs/heads/main.zip"
 description: "A warm off-white theme (light + dark) reproducing the reading experience of Claude's desktop app. Generated from a token file, zero !important, 100 KB of bundled fonts, and CJK/Latin mixing that follows what the app actually does."
 tags: [light, dark, clean, cjk, minimal, reading]
+typora-root-url: ../../
 ---
 
 # Hekouwang for Typora
