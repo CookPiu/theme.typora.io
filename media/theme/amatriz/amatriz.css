@@ -1042,8 +1042,8 @@ header {
     }
 
     table {
-        break-inside: avoid !important;
-        page-break-inside: avoid !important;
+        break-inside: auto !important;
+        page-break-inside: auto !important;
     }
 
     thead {
