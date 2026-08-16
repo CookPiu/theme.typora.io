@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: theme
 title: "Clear Ink Bilingual"
 author: "jack24254029"
+category: theme
+thumbnail: "clear-ink-bilingual.png"
 preview: "clear-ink-bilingual.png"
 homepage: "https://github.com/jack24254029/clear-ink-typora-theme"
 download: "https://github.com/jack24254029/clear-ink-typora-theme/releases/download/v1.0.0/clear-ink-bilingual-theme.zip"
