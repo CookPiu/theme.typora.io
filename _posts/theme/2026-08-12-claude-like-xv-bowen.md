@@ -1,6 +1,6 @@
 ---
 layout: theme
-title: "Claude-like by Xv-Bowen"
+title: "Claude-like"
 category: theme
 homepage: "https://github.com/Xv-Bowen/claude-like-typora-theme"
 download: "https://github.com/Xv-Bowen/claude-like-typora-theme/releases/download/v1.0.0/claude-like-typora-theme-v1.0.0.zip"
@@ -15,9 +15,9 @@ typora-root-url: ../../
 typora-copy-images-to: ../../media/theme/claude-like-xv-bowen
 ---
 
-# Claude-like by Xv-Bowen
+# Claude-like
 
-Claude-like by Xv-Bowen brings the calm, warm visual character associated with Claude to Typora while treating the editor as a complete writing environment rather than styling only the document canvas. Its light and dark variants are tuned independently for comfortable contrast, coherent hierarchy, and long-form reading in English, Chinese, and mixed-language documents.
+Claude-like brings the calm, warm visual character associated with Claude to Typora while treating the editor as a complete writing environment rather than styling only the document canvas. Its light and dark variants are tuned independently for comfortable contrast, coherent hierarchy, and long-form reading in English, Chinese, and mixed-language documents.
 
 The theme is self-contained: it uses system-font stacks, loads no remote assets, and requires only two CSS files.
 
@@ -53,4 +53,4 @@ Detailed English and Chinese documentation, customization recipes, release notes
 
 The theme was designed and visually verified on macOS with the current desktop version of Typora. It includes explicit macOS integrated-window styling, Windows unibody selectors, system-font fallbacks, and responsive layouts. Windows and Linux have not yet received the same full regression pass, so reports and screenshots from those platforms are welcome.
 
-Claude-like by Xv-Bowen is an independent, unofficial community theme. It is not affiliated with, endorsed by, or sponsored by Anthropic, PBC. Claude is a trademark of Anthropic, PBC.
+Claude-like is an independent, unofficial community theme. It is not affiliated with, endorsed by, or sponsored by Anthropic, PBC. Claude is a trademark of Anthropic, PBC.
