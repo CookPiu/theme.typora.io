@@ -69,7 +69,7 @@ irm https://raw.githubusercontent.com/shamsghi/LatexTypora/main/scripts/install-
 
 ### Manual
 
-1. Download and unzip the latest release.
+1. Download and unzip the [latest release](https://github.com/shamsghi/LatexTypora/releases/latest).
 2. In Typora, open **Preferences → Appearance → Open Theme Folder**.
 3. Copy `latex.css`, `latex-dark.css`, `latex-dev-dark.css`, and `latex_fonts/` into that folder.
 4. Restart Typora and choose a LaTeX theme from the **Themes** menu.
