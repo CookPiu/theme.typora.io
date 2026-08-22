@@ -15,11 +15,15 @@ typora-copy-images-to: ../../media/theme/latex-typora
 
 LaTeX Typora V2 gives long-form Markdown and technical documentation the typography and spacing of a LaTeX document. The family includes light and dark reading themes plus a developer-dark variant.
 
-![LaTeX Typora V2 light mode](/media/theme/latex-typora/v2-light.png)
+<p align="center">
+  <img src="/media/theme/latex-typora/v2-light.png" alt="LaTeX Typora V2 light mode" width="72%">
+</p>
 
 <p align="center">Light mode with New Computer Modern</p>
 
-![LaTeX Typora V2 dark mode](/media/theme/latex-typora/v2-dark.png)
+<p align="center">
+  <img src="/media/theme/latex-typora/v2-dark.png" alt="LaTeX Typora V2 dark mode" width="72%">
+</p>
 
 <p align="center">Dark mode with the same document geometry</p>
 
