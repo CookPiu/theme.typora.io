@@ -34,14 +34,18 @@ The light and dark themes set body text in New Computer Modern. Their 32em measu
 
 <p align="center"><em>Attention Is All You Need</em> rendered inside Typora</p>
 
-## What is new in V2
+## What changed in V2
 
-- **New Computer Modern throughout:** V2 bundles local serif, sans, and mono families for prose, labels, and code.
-- **LaTeX document geometry:** The reading measure, paragraph rhythm, headings, lists, tables, quotations, and footnotes use LaTeX conventions.
-- **HTML exports keep the typeface:** Embedded WOFF2 subsets preserve New Computer Modern on machines without the theme installed.
-- **Three variants:** `latex.css` and `latex-dark.css` focus on reading. `latex-dev-dark.css` covers READMEs, API notes, specifications, and changelogs.
-- **Multilingual text:** V2 includes Noto Nastaliq for Urdu and Persian plus cross-platform CJK font stacks.
-- **No network dependency:** The themes load their fonts without a CDN or network connection.
+- **New Computer Modern replaces Latin Modern:** The reading themes now use New Computer Modern Serif for prose, Sans for interface and diagram labels, and Mono for code.
+- **Font-preserving HTML export:** Embedded WOFF2 subsets keep the selected typefaces when Typora removes `@font-face` rules during export.
+- **Rebuilt reading geometry:** V2 recalibrates the 32em measure, paragraph indentation, heading sizes, section spacing, lists, tables, quotations, and footnotes against `article.cls` at 11pt on letter paper.
+- **Developer code-review tools:** The developer-dark theme now keeps fenced-code language labels in reading mode and exports. It also adds full-row diff tints, wrapping documentation tables, and visible overflow controls.
+- **Expanded Mermaid styling:** V2 adds coordinated light and dark diagram palettes, dedicated label typography, and export-safe handling for flowcharts, sequence diagrams, state diagrams, and ER diagrams.
+- **Reworked installers:** The macOS/Linux installer and native Windows PowerShell installer detect Typora's theme directory, install a selected ref, and remove stale theme files.
+
+## Multilingual support
+
+V2 retains the language support introduced in V1: Noto Nastaliq for Urdu and Persian, cross-platform CJK font stacks, and two-character first-line indentation for Chinese, Japanese, and Korean paragraphs.
 
 ## A developer variant that behaves like documentation
 
