@@ -45,7 +45,7 @@ The light and dark themes set body text in New Computer Modern. Their 32em measu
 
 ## Multilingual support
 
-V2 retains the language support introduced in V1: Noto Nastaliq for Urdu and Persian, cross-platform CJK font stacks, and two-character first-line indentation for Chinese, Japanese, and Korean paragraphs.
+V2 retains the language support introduced in V1: cross-platform CJK font stacks and two-character first-line indentation for Chinese, Japanese, and Korean paragraphs, plus Noto Nastaliq for Urdu and Persian.
 
 ## A developer variant that behaves like documentation
 
