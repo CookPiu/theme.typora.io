@@ -1,11 +1,14 @@
 ---
-layout: post
-title: "Formal Dark Pro"
-author: "Andrew"
-preview: "formal-dark-pro.png"
-homepage: "https://github.com/AndrewYY5178/formal-dark-pro-typora-theme"
-download: "https://github.com/AndrewYY5178/formal-dark-pro-typora-theme/archive/refs/heads/main.zip"
-description: "Pure black formal dark theme for resumes and professional documents. Optima + Songti SC font pairing with soft blue-purple accents."
+layout: theme
+title: Formal Dark Pro
+category: theme
+homepage: https://github.com/AndrewYY5178/formal-dark-pro-typora-theme
+download: https://github.com/AndrewYY5178/formal-dark-pro-typora-theme/archive/refs/heads/main.zip
+built-in: false
+author: Andrew
+thumbnail: formal-dark-pro.png
+typora-root-url: ../../
+description: Pure black formal dark theme for resumes and professional documents. Optima + Songti SC font pairing with soft blue-purple accents.
 tags: [dark, formal, resume, professional, business]
 ---
 

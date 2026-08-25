@@ -1,11 +1,14 @@
 ---
-layout: post
-title: "Retro Typewriter"
-author: "Andrew"
-preview: "retro-typewriter.png"
-homepage: "https://github.com/AndrewYY5178/retro-typewriter-typora-theme"
-download: "https://github.com/AndrewYY5178/retro-typewriter-typora-theme/archive/refs/heads/main.zip"
-description: "Vintage typewriter-style light theme with warm cream paper tones. All monospace, all retro."
+layout: theme
+title: Retro Typewriter
+category: theme
+homepage: https://github.com/AndrewYY5178/retro-typewriter-typora-theme
+download: https://github.com/AndrewYY5178/retro-typewriter-typora-theme/archive/refs/heads/main.zip
+built-in: false
+author: Andrew
+thumbnail: retro-typewriter.png
+typora-root-url: ../../
+description: Vintage typewriter-style light theme with warm cream paper tones. All monospace, all retro.
 tags: [light, vintage, typewriter, retro, monospace]
 ---
 
