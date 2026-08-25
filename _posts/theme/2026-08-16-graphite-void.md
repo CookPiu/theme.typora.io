@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: theme
 title: "Graphite Void"
+category: theme
 author: "Vojtech Foukal"
+thumbnail: "graphite-void.png"
 preview: "graphite-void.png"
 homepage: "https://github.com/vofo/typora-theme-graphite-void"
 download: "https://github.com/vofo/typora-theme-graphite-void/archive/refs/heads/main.zip"
